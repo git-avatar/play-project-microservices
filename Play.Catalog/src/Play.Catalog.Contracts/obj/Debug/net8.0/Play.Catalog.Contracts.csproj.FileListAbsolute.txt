@@ -1,0 +1,12 @@
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net8.0/Play.Catalog.Contracts.deps.json
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net8.0/Play.Catalog.Contracts.dll
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net8.0/Play.Catalog.Contracts.pdb
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.dll
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/refint/Play.Catalog.Contracts.dll
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.pdb
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/ref/Play.Catalog.Contracts.dll
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.sourcelink.json

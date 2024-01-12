@@ -1,0 +1,12 @@
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/bin/Debug/net8.0/Play.Common.deps.json
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/bin/Debug/net8.0/Play.Common.dll
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/bin/Debug/net8.0/Play.Common.pdb
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/Play.Common.AssemblyInfoInputs.cache
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/Play.Common.AssemblyInfo.cs
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/Play.Common.csproj.CoreCompileInputs.cache
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/Play.Common.dll
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/refint/Play.Common.dll
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/Play.Common.pdb
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/ref/Play.Common.dll
+/Users/aleksandarpenchikj/RiderProjects/PlayProject/Play.Common/src/Play.Common/Play.Common/obj/Debug/net8.0/Play.Common.csproj.AssemblyReference.cache
